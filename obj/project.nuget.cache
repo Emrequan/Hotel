@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "II8cwDRDWlg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\huawei\\Desktop\\Hotell567\\Hotell567.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huawei\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform belirtmiş olsalar bile, bir veya daha fazla hedef çerçeve için platform sürümü yok: net6.0-maccatalyst"
+    }
+  ]
+}
